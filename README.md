@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Arisha Firoz.
+- 👀 I’m interested in Web Designing.
+- 🌱 I’m currently learning UI/UX Designing and DSA with C/Python.
+- 🌱 I have learned Full Stack with Django, and also have interest in  Js.
+- 📫 How to reach me  https://www.linkedin.com/in/arisha-firoz-668638331
