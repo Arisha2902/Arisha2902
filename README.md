@@ -60,7 +60,7 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-achievements.vercel.app/api/achievements?username=Arisha2902&theme=radical" alt="GitHub Achievements" />
+  <img src="https://github-profile-achievements.vercel.app/api/achievements?username=Arisha2902&theme=radical&cache_seconds=86400" alt="GitHub Achievements" />
 </p>
 
 ## 📈 Competitive Programming
@@ -69,7 +69,7 @@
 ![LeetCode Stats]( https://leetcode-stats-api.herokuapp.com/arisha2902)
 
 ### 🌟 GeeksforGeeks
-![GFG Stats](https://gfgstatscard.vercel.app/api?username=firozar130z)
+![GFG Stats](https://gfgstatscard.vercel.app/firozar130z?theme=dark)
 
 
 ## 🌐 Let's Connect!
