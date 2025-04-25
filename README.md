@@ -14,11 +14,11 @@
 
 ## 🧠 About Me
 
-- 💻 interested in  Web Designing and creating visually captivating digital experiences.
+- 💻 Interested in Web Designing and creating visually captivating digital experiences.
 - 🌱 Sharpening my analytical and programming skills by solving **Data Structures and Algorithms challenges with Python**.
 - 🎨 Exploring **UI/UX** Designing and crafting intuitive user interfaces.
-- 👀  Enjoys coding in **JavaScript** and exploring its endless possibilities.
-- 🤝 Excited to collaborate on **open-source projects**, **hackathons**, and **community-driven initiatives**.
+- 👀 Enjoys coding in **JavaScript** and exploring its endless possibilities.
+- 🤝 Thrilled to contribute to **open-source projects**, participate in **hackathons**, and be part of **vibrant tech communities** while delivering clean, scalable, and innovative solutions.
 
 ---
 
@@ -36,7 +36,7 @@
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  </p>
+</p>
 
 ### 🛢️ Databases
 <p>
@@ -57,24 +57,28 @@
 </p>
 
 ---
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-achievements.vercel.app/api/achievements?username=Arisha2902&theme=radical" alt="GitHub Achievements" />
+</p>
 
 ## 📈 Competitive Programming
 
 ### 🏆 LeetCode
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/arisha2902)
+![LeetCode Stats]( https://leetcode-stats-api.herokuapp.com/arisha2902)
 
 ### 🌟 GeeksforGeeks
 ![GFG Stats](https://gfgstatscard.vercel.app/api?username=firozar130z)
 
----
 
 ## 🌐 Let's Connect!
 
 <p align="center">
-  <a href="https://github.com/YourGitHubUsername">
+  <a href="https://github.com/Arisha2902">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YourLinkedInUsername">
+  <a href="https://www.linkedin.com/in/arisha2902">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
