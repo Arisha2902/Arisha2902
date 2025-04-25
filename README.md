@@ -1,5 +1,88 @@
-- 👋 Hi, I’m Arisha Firoz.
-- 👀 I’m interested in Web Designing.
-- 🌱 I’m currently learning UI/UX Designing and DSA with C/Python.
-- 🌱 I have learned Full Stack with Django, and also have interest in  Js.
-- 📫 How to reach me  https://www.linkedin.com/in/arisha-firoz-668638331
+<h1 align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&color=FFA500&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Arisha+Firoz;Full-Stack+Developer+%F0%9F%92%BB;MERN+Stack+%7C+Django+%7C+Mastering+DSA+with+Python" 
+    alt="Typing SVG"
+    style="max-width: 100%; display: block; margin: auto;" 
+  />
+</h1>
+<p align="center">
+  🚀 Full-Stack Developer | 💻 MERN Stack | 🐍 Django | 🧩 Mastering DSA with Python <br/>
+  🎓 BTech Student | 🎨 Enthusiast in Frontend Design and Development
+</p>
+
+---
+
+## 🧠 About Me
+
+- 💻 interested in  Web Designing and creating visually captivating digital experiences.
+- 🌱 Sharpening my analytical and programming skills by solving **Data Structures and Algorithms challenges with Python**.
+- 🎨 Exploring **UI/UX** Designing and crafting intuitive user interfaces.
+- 👀  Enjoys coding in **JavaScript** and exploring its endless possibilities.
+- 🤝 Excited to collaborate on **open-source projects**, **hackathons**, and **community-driven initiatives**.
+
+---
+
+## 🚀 Tech Stack
+
+### 💻 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
+
+### 🧪 Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  </p>
+
+### 🛢️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arisha2902&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arisha2902&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arisha2902&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 📈 Competitive Programming
+
+### 🏆 LeetCode
+![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/arisha2902)
+
+### 🌟 GeeksforGeeks
+![GFG Stats](https://gfgstatscard.vercel.app/api?username=firozar130z)
+
+---
+
+## 🌐 Let's Connect!
+
+<p align="center">
+  <a href="https://github.com/YourGitHubUsername">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YourLinkedInUsername">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ✨ Fun Fact
+
+> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler
+
+Thanks for stopping by! 🚀 Explore my projects and feel free to connect or collaborate!
