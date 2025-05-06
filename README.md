@@ -56,12 +56,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arisha2902&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
-## 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-achievements.vercel.app/api/achievements?username=Arisha2902&theme=radical&cache_seconds=86400" alt="GitHub Achievements" />
-</p>
 
 ## 📈 Competitive Programming
 
