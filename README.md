@@ -21,11 +21,14 @@
 - 🤝 Thrilled to contribute to **open-source projects**, participate in **hackathons**, and be part of **vibrant tech communities** while delivering clean, scalable, and innovative solutions.
 
 ---
+## **GITHUB TROPHIES** 🏆
+<img src="https://github-profile-trophy.vercel.app/?username=Arisha2902&theme=onedark&column=-1&margin-w=8&no-frame=true&no-bg=true"  /></a>
 
 ## 🚀 Tech Stack
 
 ### 💻 Frontend
 <p>
+
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -49,11 +52,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arisha2902&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arisha2902&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arisha2902&layout=compact&theme=radical" alt="Top Languages" />
+
+  [![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arisha2902\&rank_icon=percentile&theme=radical)](https://github.com/Arisha290z/github-readme-stats)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arisha2902&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arisha2902&theme=radiical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arisha2902&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arisha2902&theme=radical&utcOffset=8)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arisha2902&theme=radical&hide_border=true" alt="GitHub Streak" />
+
 </p>
 
 
