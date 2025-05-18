@@ -70,8 +70,6 @@
 ### 🏆 LeetCode
 ![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/Arisha2902)
 
-### 🌟 GeeksforGeeks
-![GFG Stats](https://gfgstatscard.vercel.app/firozar130z?theme=dark)
 
 
 ## 🌐 Let's Connect!
