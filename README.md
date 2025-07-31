@@ -82,13 +82,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
----
-![](https://komarev.com/ghpvc/?username=Arisha2902&color=green&style=flat-square&label=PROFILE+VIEWS)
+
 ---
 
 ## ✨ Fun Fact
-
-![](https://komarev.com/ghpvc/?username=Arisha2902)
 
 
 > “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler
