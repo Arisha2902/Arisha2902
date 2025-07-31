@@ -82,7 +82,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
+---
+![](https://komarev.com/ghpvc/?username=Arisha2902&color=green&style=flat-square&label=PROFILE+VIEWS)
 ---
 
 ## ✨ Fun Fact
