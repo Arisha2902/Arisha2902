@@ -88,6 +88,9 @@
 
 ## ✨ Fun Fact
 
+![](https://komarev.com/ghpvc/?username=Arisha2902)
+
+
 > “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler
 
 Thanks for stopping by! 🚀 Explore my projects and feel free to connect or collaborate!
