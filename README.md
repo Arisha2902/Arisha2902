@@ -21,8 +21,7 @@
 - 🤝 Thrilled to contribute to **open-source projects**, participate in **hackathons**, and be part of **vibrant tech communities** while delivering clean, scalable, and innovative solutions.
 
 ---
-## **GITHUB TROPHIES** 🏆
-<img src="https://github-profile-trophy.vercel.app/?username=Arisha2902&theme=onedark&column=-1&margin-w=8&no-frame=true&no-bg=true"  /></a>
+
 
 ## 🚀 Tech Stack
 
