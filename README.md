@@ -50,6 +50,7 @@
 
 ## 📊 GitHub Stats
 
+ <!-- 
 <p align="center">
 
   [![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arisha2902\&rank_icon=percentile&theme=radical)](https://github.com/Arisha290z/github-readme-stats)
@@ -60,14 +61,16 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arisha2902&theme=radical&utcOffset=8)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arisha2902&theme=radical&hide_border=true" alt="GitHub Streak" />
 
-</p>
+</p> 
+
 
 
 
 ## 📈 Competitive Programming
 
 ### 🏆 LeetCode
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/Arisha2902)
+![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/Arisha2902) -->
+
 
 
 
