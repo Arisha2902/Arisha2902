@@ -48,9 +48,10 @@
 
 ---
 
+ <!-- 
 ## 📊 GitHub Stats
 
- <!-- 
+  
 <p align="center">
 
   [![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arisha2902\&rank_icon=percentile&theme=radical)](https://github.com/Arisha290z/github-readme-stats)
