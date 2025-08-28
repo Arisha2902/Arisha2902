@@ -6,7 +6,7 @@
   />
 </h1>
 <p align="center">
-  🚀 Full-Stack Developer | 💻 MERN Stack | 🐍 Django | 🧩 Mastering DSA with Python <br/>
+  🚀 Full-Stack Developer | 💻 MERN Stack | 🐍 Django | 🧩 Mastering DSA with Java <br/> 
   🎓 BTech Student | 🎨 Enthusiast in Frontend Design and Development
 </p>
 
