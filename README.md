@@ -83,7 +83,7 @@
   </a>
   <a href="  https://www.linkedin.com/in/arisha-firoz-668638331/">
   
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
