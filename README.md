@@ -65,14 +65,13 @@
 </p> 
 
 
+-->
 
+📈 Competitive Programming
 
-## 📈 Competitive Programming
+🏆 LeetCode
 
-### 🏆 LeetCode
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/Arisha2902) -->
-
-
+<br/>![Leetcode Stats](https://leetcard.jacoblin.cool/arisha2902?theme=transparent)
 
 
 ## 🌐 Let's Connect!
