@@ -25,6 +25,7 @@
 ---
 
 ## 🚀 Tech Stack
+<p>
 
 
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -43,6 +44,7 @@
   <img src="https://img.shields.io/badge/Feature%20Engineering-6366F1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Prompt%20Engineering-4F46E5?style=for-the-badge" />
+  </p?
 
 
 ---
