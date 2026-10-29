@@ -80,6 +80,11 @@
 ## 🌐 Let's Connect!
 
 <p align="center">
+
+
+<a href="https://arisha-dev-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Visit%20My%20Website-FFA500?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
   <a href="https://github.com/Arisha2902">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
